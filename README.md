@@ -4,7 +4,7 @@ Here are some cool stuffs about me:
 
 - 🔭 I’m currently working on Object Frontier Software(OFS)
 - 👯 I’m looking to collaborate on graphql,reactjs,node
-- 💬 Ask me about I don't know whatever
+- 💬 Ask me about : I don't know whatever
 - 📫 Reach me via lssuseendharlal@gmail.com
 - ⚡ I'm a movie buff
 
@@ -41,7 +41,6 @@ Here are some cool stuffs about me:
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr -->
 <br/>
-###
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
