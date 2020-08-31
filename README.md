@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**suseendharlal96/suseendharlal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Hi there, I'm Suseendhar Lal 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Object Frontier Software(OFS)
+- 👯 I’m looking to collaborate on graphql,reactjs,node
+- 💬 Ask me about I don't know whatever
+- 📫 Reach me via lssuseendharlal@gmail.com
+- ⚡ I'm a movie buff
+###
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96)](https://github.com/anuraghazra/github-readme-stats)
+###
+
