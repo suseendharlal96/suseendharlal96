@@ -1,6 +1,6 @@
  ### Hi there, I'm Suseendhar Lal 👋
 
-Here are some ideas to get you started:
+Here are some cool stuffs about me:
 
 - 🔭 I’m currently working on Object Frontier Software(OFS)
 - 👯 I’m looking to collaborate on graphql,reactjs,node
