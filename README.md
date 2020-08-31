@@ -8,8 +8,8 @@ Here are some cool stuffs about me:
 - 📫 Reach me via lssuseendharlal@gmail.com
 - ⚡ I'm a movie buff
 ###
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
