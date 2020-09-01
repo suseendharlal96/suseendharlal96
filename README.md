@@ -49,6 +49,7 @@ Here are some cool stuffs about me:
 [github]: https://github.com/suseendharlal96
 [ofs]: https://www.objectfrontier.com/
 [fb]: https://www.facebook.com/suseendhar.lal.9/
+[gmail]: mailto:lssuseendharlal@gmail.com/
 
 <br/>
 
@@ -56,4 +57,5 @@ Here are some cool stuffs about me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
