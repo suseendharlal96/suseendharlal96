@@ -59,9 +59,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Github" width="30px" src="https://img.icons8.com/color/2x/github.png" />][github]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/2x/twitter.png" />][twitter]
+[<img align="left" alt="codeSTACKr | Medium" width="30px" src="https://img.icons8.com/color/2x/medium-monogram.png" />][medium]
+[<img align="left" alt="codeSTACKr | Github" width="30px" src="https://img.icons8.com/color/2x/gmail.png" />][gmail]
+[<img align="left" alt="codeSTACKr | Github" width="30px" src="https://img.icons8.com/color/2x/facebook.png" />][fb]
