@@ -1,4 +1,4 @@
-### Hi there, I'm Suseendhar Lal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
+### Hello there,I'm Suseendhar Lal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
 
 Here are some cool stuffs about me:
 
@@ -6,14 +6,11 @@ Here are some cool stuffs about me:
 - 👯 I’m looking to collaborate on graphql,reactjs,node
 - 💬 Ask me about : I don't know whatever
 - 📫 Reach me via lssuseendharlal@gmail.com
-- ⚡ I'm a movie buff
+- <g-emoji class="g-emoji" alias="clapper" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png"><img class="emoji" alt="clapper" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png"></g-emoji> I'm a movie buff
+
+<br/>
 
 <img align="right" alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;">
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br/>
 
@@ -40,6 +37,8 @@ Here are some cool stuffs about me:
 <br />
 <br />
 
+###
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
@@ -49,3 +48,12 @@ Here are some cool stuffs about me:
 [linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
 [github]: https://github.com/suseendharlal96
 [ofs]: https://www.objectfrontier.com/
+[fb]: https://www.facebook.com/suseendhar.lal.9/
+
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
