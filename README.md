@@ -1,5 +1,4 @@
-### Hello there,I'm Suseendhar Lal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
-
+### Hello there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Suseendhar Lal
 ![](https://komarev.com/ghpvc/?username=suseendharlal96)
 
 ### Here are some cool stuffs about me:
