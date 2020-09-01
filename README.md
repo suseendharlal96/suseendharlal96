@@ -13,7 +13,7 @@ Here are some cool stuffs about me:
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 ### Languages and Tools:
 
@@ -31,15 +31,11 @@ Here are some cool stuffs about me:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
-[github]: https://github.com/suseendharlal96
-[linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
-<br/>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+[linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
+[github]: https://github.com/suseendharlal96
