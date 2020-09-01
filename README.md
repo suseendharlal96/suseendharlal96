@@ -1,4 +1,5 @@
 ### Hello there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Suseendhar Lal
+
 ![](https://komarev.com/ghpvc/?username=suseendharlal96)
 
 ### Here are some cool stuffs about me:
@@ -40,11 +41,11 @@
 
 ###
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
 [github]: https://github.com/suseendharlal96
