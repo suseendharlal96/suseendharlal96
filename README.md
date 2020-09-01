@@ -8,7 +8,7 @@ Here are some cool stuffs about me:
 - 📫 Reach me via lssuseendharlal@gmail.com
 - ⚡ I'm a movie buff
 
-<img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif" data-canonical-src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif" style="max-width:100%;">
+<img align="right" alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;">
 
 ### Connect with me:
 
