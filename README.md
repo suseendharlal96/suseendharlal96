@@ -1,4 +1,4 @@
-### Hello there,I'm Suseendhar Lal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/eccbb401042eef9833898ebebb737bf917618b91/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6b697368616e303732353f7374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/eccbb401042eef9833898ebebb737bf917618b91/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6b697368616e303732353f7374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/suseendharlal96?style=social" style="max-width:100%;"></a>
+### Hello there,I'm Suseendhar Lal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
 
 Here are some cool stuffs about me:
 
