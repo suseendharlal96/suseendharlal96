@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on graphql,reactjs,node
 - 💬 Ask me about : I don't know whatever
 - 📫 Reach me via lssuseendharlal@gmail.com
-- <g-emoji class="g-emoji" alias="clapper" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png"><img class="emoji" alt="clapper" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png"></g-emoji> I'm a movie buff
+- 💻 Find my works at [Suseendhar Lal][sus]
+- 🎬 I'm a movie buff
 
 <br/>
 
@@ -48,6 +49,7 @@
 [gmail]: mailto:lssuseendharlal@gmail.com/
 [twitter]: https://www.twitter.com/SuseendharL
 [medium]: https://medium.com/@lssuseendharlal
+[sus]: suseendhar.netlify.app
 
 <br/>
 
