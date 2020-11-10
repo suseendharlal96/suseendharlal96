@@ -4,10 +4,10 @@
 
 ### Here are some cool stuffs about me:
 
-- 🔭 I’m currently working as Software Engineer at [Object Frontier Software(OFS)][ofs]
-- 👯 I’m looking to collaborate on graphql,reactjs,node
-- 💬 Ask me about : I don't know whatever
-- 📫 Reach me via lssuseendharlal@gmail.com
+- 👔 I’m currently working as Software Engineer at [Object Frontier Software(OFS)][ofs]
+- 🤝 I’m looking to collaborate on graphql,reactjs,node
+- ❓  Ask me about : I don't know whatever
+- 📲 Reach me via lssuseendharlal@gmail.com
 - 💻 Find my works at [Suseendhar Lal][sus]
 - 🎬 I'm a movie buff
 
