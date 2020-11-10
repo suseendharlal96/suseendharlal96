@@ -41,10 +41,6 @@
 
 ###
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suseendharlal96&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
