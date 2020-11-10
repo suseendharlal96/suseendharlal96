@@ -12,10 +12,6 @@
 
 <br/>
 
-<img align="right" alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;">
-
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" height=40 max-width=100 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,6 +36,8 @@
 <br />
 
 ###
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
