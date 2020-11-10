@@ -49,7 +49,7 @@
 [gmail]: mailto:lssuseendharlal@gmail.com/
 [twitter]: https://www.twitter.com/SuseendharL
 [medium]: https://medium.com/@lssuseendharlal
-[sus]: suseendhar.netlify.app
+[sus]: https://suseendhar.netlify.app/
 
 <br/>
 
