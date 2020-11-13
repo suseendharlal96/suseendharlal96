@@ -11,8 +11,6 @@
 - 💻 Find my works at [Suseendhar Lal][sus]
 - 🎬 I'm a movie buff
 
-<br/>
-
 ### Languages and Tools:
 <div style="display:'block'">
 <img align="left" alt="Visual Studio Code" height=40 max-width=100 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,13 +33,10 @@
 </div>
 
 <br/>
-<br/>
 
-### Languages Statistics:
-
-<br/>
-
+### Language Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
 [github]: https://github.com/suseendharlal96
