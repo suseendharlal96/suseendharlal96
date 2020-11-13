@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=suseendharlal96)
 
-### Here are some cool stuffs about me:
+### About me:
 
 - 👔 I’m currently working as Software Engineer at [Object Frontier Software(OFS)][ofs]
 - 🤝 I’m looking to collaborate on graphql,reactjs,node
