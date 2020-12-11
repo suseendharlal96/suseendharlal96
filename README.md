@@ -52,6 +52,4 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Github" width="30px" src="https://img.icons8.com/color/2x/github.png" />][github]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/2x/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | Medium" width="30px" src="https://img.icons8.com/color/2x/medium-monogram.png" />][medium]
 [<img align="left" alt="codeSTACKr | Github" width="30px" src="https://img.icons8.com/color/2x/gmail.png" />][gmail]
-[<img align="left" alt="codeSTACKr | Github" width="30px" src="https://img.icons8.com/color/2x/facebook.png" />][fb]
