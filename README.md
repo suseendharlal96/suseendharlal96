@@ -30,12 +30,10 @@
 <img align="left" alt="Node.js" height=40 max-width=100 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" height=40 max-width=100 src="https://camo.githubusercontent.com/eaac62a970d1d8e326a6137b99515071b698ee38/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" />
 <img align="left" alt="Git" height=40 max-width=100 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" height=40 max-width=100 src="https://img.icons8.com/color/2x/github.png" />
 <img align="left" alt="Terminal" height=40 max-width=100 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
-[github]: https://github.com/suseendharlal96
 [ofs]: https://www.objectfrontier.com/
 [fb]: https://www.facebook.com/suseendhar.lal.9/
 [gmail]: mailto:lssuseendharlal@gmail.com/
