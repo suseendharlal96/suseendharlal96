@@ -4,10 +4,8 @@
 
 - 👔 I’m currently working as Software Engineer at [Object Frontier Software(OFS)][ofs]
 - 🤝 I’m looking to collaborate on graphql,reactjs,node
-- ❓  Ask me about : I don't know whatever
 - 📲 Reach me via lssuseendharlal@gmail.com
 - 💻 Find my works at [Suseendhar Lal][sus]
-- 🎬 I'm a movie buff
 
 ### Language Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suseendharlal96&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
