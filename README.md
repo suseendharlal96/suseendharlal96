@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 👔 I’m currently working as Software Engineer at [Object Frontier Software(OFS)][ofs]
+- 👔 I’m currently working as Software Engineer at [Paytm][paytm]
 - 🤝 I’m looking to collaborate on graphql,reactjs,node
 - 📲 Reach me via lssuseendharlal@gmail.com
 - 💻 Find my works at [My works][sus]
@@ -30,7 +30,7 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
-[ofs]: https://www.objectfrontier.com/
+[paytm]: https://paytm.com/
 [fb]: https://www.facebook.com/suseendhar.lal.9/
 [gmail]: mailto:lssuseendharlal@gmail.com/
 [twitter]: https://www.twitter.com/SuseendharL
