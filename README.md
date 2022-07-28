@@ -30,7 +30,7 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/suseendhar-lal-312709155/
-[paytm]: https://paytm.com/
+[rippling]: https://rippling.com/
 [fb]: https://www.facebook.com/suseendhar.lal.9/
 [gmail]: mailto:lssuseendharlal@gmail.com/
 [twitter]: https://www.twitter.com/SuseendharL
