@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 👔 I’m currently working as Software Engineer at [Paytm][paytm]
+- 👔 I’m currently working as Software Engineer at [Rippling][rippling]
 - 🤝 I’m looking to collaborate on graphql,reactjs,node
 - 📲 Reach me via lssuseendharlal@gmail.com
 - 💻 Find my works at [My works][sus]
